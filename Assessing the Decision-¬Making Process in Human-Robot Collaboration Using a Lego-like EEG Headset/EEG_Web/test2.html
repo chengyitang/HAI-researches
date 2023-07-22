@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>test2</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+</head>
+<body>
+    <section style="margin-top: 50px;">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-8">
+                    <div class="card">
+                        <h5 class="card-header">Computational Thinking Test</h5>
+
+                        <!-- Main Content -->
+                        <div class="card-body">
+                            
+                            <!-- 第三階段 -->
+                            <div class="row">
+                                <div class="col-12">
+                                    <h4 class="form-header" id="label_section"> 第三階段 </h4>
+                                </div>
+                            </div>
+
+                            <!-- 題號 -->
+                            <div class="row">
+                                <div class="col-12">
+                                    <label id="question"></label>
+                                </div>
+                            </div>
+
+                            <!-- 題目圖片 -->
+                            <div class="row justify-content-center">
+                                <div class="col">
+                                    <img id="img" width="100%" height="auto">
+                                </div>
+                            </div>
+
+                            <!-- 機器人選則 -->
+                            <div class="msg alert alert-warning" id="msg_id" style="display: none" role="alert"></div>
+
+                            <!-- 選項 -->
+                            <div class="row">
+                                <div class="col-md-6 form-group form-radio-item">
+                                    <input type="radio"  class="form-radio" id="input_14_1" name="radio" value="A" required>
+                                        <label id="label_input_14_1" for="input_14_1"></label>
+                                </div>
+                                <div class="col-md-6 form-group form-radio-item">
+                                    <input type="radio"  class="form-radio" id="input_14_2" name="radio" value="B" required>
+                                        <label id="label_input_14_2" for="input_14_2"></label>
+                                </div>
+                                <div class="col-md-6 form-group form-radio-item">
+                                    <input type="radio"  class="form-radio" id="input_14_3" name="radio" value="C" required>
+                                        <label id="label_input_14_3" for="input_14_3"></label>
+                                </div>
+                                <div class="col-md-6 form-group form-radio-item">
+                                    <input type="radio"  class="form-radio" id="input_14_4" name="radio" value="D" required>
+                                        <label id="label_input_14_4" for="input_14_4"></label>
+                                </div>
+                            </div>
+
+                            <!-- 送出按鈕 -->
+                            <div>
+                                <div class="col-12">
+                                    <input id="submit" name="submit" type="submit" class="btn btn-success" value="Submit">
+                                </div>
+                            </div>
+
+                        </div>
+                        <!-- Main Content -->
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script src="test.js"></script>
+</body>
+</html>
