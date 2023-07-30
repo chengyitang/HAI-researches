@@ -1,0 +1,1862 @@
+Remote presence
+teleoperation
+video conferencing
+Human robot interaction
+mobile remote presence
+older adults
+Human Robot Interaction
+Projector Robot
+Augmented Reality
+Teaching Assistant Robot
+task allocation and coordination
+experiments on HRI
+HRI group dynamics
+autonomy and trust
+Communication robots
+Robots for elderly
+Robots in organizations
+Ethnography
+human robot peer-based teams
+human-performance modeling
+Computers-as-Social-Actors paradigm
+linguistic variation
+verbal human robot interaction
+mindless transfer
+human robot interaction
+ahthropomorphism
+Effectance Motivation
+Predictability of Robot Behavior
+human robot interaction
+Animation
+Metrics
+human-like motion
+user study
+mimicking
+Robot Hand
+Anthropomorphic Hand
+Tele-operating
+Assistive Mode
+Grasping
+Contingency Detection
+Human Robot Inter-action
+Response Detection
+Affect recognition
+human robot interaction
+affective body movement and posture
+robot companions
+HRI
+language teaching
+social robotics
+interface design
+ASD
+human robot Interaction
+Socially Assistive Robotics
+behavior modeling
+human robot interaction
+humanlike robots
+proxemics
+distancing
+gaze
+proximity
+disclosure
+Wakamaru
+Crowdsourcing
+interface design
+learning from demonstration
+robot
+human teacher
+affect
+emotion
+physical human robot interaction
+human robot interaction
+metrics
+evaluation
+multi-robot system
+Human Robot Interaction
+Simulation
+Military
+Imperfect Automation
+Individual Differences
+Multitasking
+human robot interaction
+modeling
+simulation
+social robots
+Semantic Web
+Japanese Wikipedia Ontology
+Robot Action Ontology
+Japanese Speech Interface
+Dialogue
+Action
+Collaborative Systems
+Robot Database
+Robotic Embodiments
+Semanic Technologies
+human robot Interaction
+Learning by Demonstration
+Environment Modeling
+Path Planning
+Route Guidance
+Communication robots
+Robots for elderly
+Field experiments
+human robot Interaction
+Haptics
+Healthcare
+Haptic interaction
+Active touching
+Motivation improvement
+Affective Touch
+Socially Interactive Robots
+Affect Display
+human robot Interaction (HRI)
+Affect
+Haptics
+Emotion
+Touch
+Robot Pets
+human robot Interaction
+Gesture Recognition
+Robot-human hand-overs
+fluency
+Intended recipient
+Participant roles
+Social and contextual cues
+Gaze
+Multi-robot operators
+interface design
+information presentation
+design research
+human robot interaction
+metrics
+evaluation
+multi-robot system
+Multiple Robots
+Teamwork
+Communication
+Urban Search and Rescue
+Trust
+automation
+experiments
+Haptic exploration
+telepresence
+3D in-situ perception 
+Telepresence robotics
+embodied interaction
+videoconferencing 
+Psychological safety
+Humanoid
+Psychological scale
+Social facilitation
+social robotics
+HRI
+mere presence
+human-robot interaction
+interaction pattern
+sociality
+morality
+robot causing harm
+Human-robot interaction
+generating social behavior
+Activity Theory
+Robot Behavior Toolkit
+Learning from Demonstration
+Active Learning
+Handover
+handoff
+grip force
+load force
+object transfer
+haptic communication
+physical human robot interaction 
+grasping
+teleoperation
+shared autonomy
+Human-robot interaction
+object learning
+social robotics
+HRI Communication
+Language processing
+Learning about the environment
+Learning from interaction
+Enabling technologies
+Embodiment
+robot simulations
+degrees of freedom
+linguistic analysis
+verbal human-robot interaction
+Wilderness Search and Rescue
+Search and Detection
+Unmanned Aerial Vehicles
+Anomaly Detection
+User Study
+Environment Modeling
+Computational model of memory
+Social human-robot interaction
+Robot Audition
+Multi-party Interaction
+Dereverberation
+Robustness in Speech Recognition
+Blind source separation
+computational auditory scene analysis
+EM algorithm
+learning
+Learning from Demonstration
+Animation
+Facial Expressions
+Emotions
+Exaggeration
+cartoon-like motion
+user study
+Social Robots
+Affect Recognition
+Empathy
+Children 
+Human-robot interaction
+Blended reality character
+interreality portal
+robot hutch
+informal learning 
+Communication robots
+Robots for children
+Field experiments
+Aging in place
+home monitoring
+home
+older adult
+privacy
+human-robot interaction 
+Aging
+Aging in Place
+Assistive Robotics
+Chores
+Design Guidelines
+Home
+Home Environment
+Mobile Manipulation
+Needs Assessment
+Older Adults
+Service Robotics 
+home robots
+need finding
+home organization
+robot design
+Personalization
+social robot
+human-robot interaction
+service design
+organization
+mixed-method
+field trial
+HRI
+Interaction analysis
+museum
+guide robot
+human-robot interaction
+computer vision 
+Human-robot interaction
+side-by-side walking
+path planning 
+Persuasion
+compliance
+nonverbal immediacy
+nonverbal cues
+gaze
+gestures
+proximity
+vocal tone
+Head motion
+dialogue acts
+eye gazing
+motion generation 
+Robot-mediated communication
+robotic telepresence systems
+height
+team role
+compliance
+Interactive teleoperation
+limited perception 
+Human-robot interaction
+social robots
+navigation
+supervisory control
+Human-Robot Interaction
+Interviews
+False Memory
+Memory
+Social Demands 
+social robots
+affect recognition
+children
+electrodermal activity 
+I.2.9 Robotics
+Person Identification
+Soft Biometrics
+Understanding environments
+model for waiting locations
+shopping-assistant robot
+Navigating in a crowd
+Perspective-taking
+Simulation
+human-robot interaction
+social robots
+pointing gesture
+Communication
+dialogue
+assistive robots
+social robot
+human-robot interaction
+politeness
+mixed-method
+Aging
+assistive robots
+delivering medication
+home environment
+medication management
+older adults 
+social human-robot interaction
+human-robot interaction
+affective computing
+laban effort system
+motion parameters
+human-robot collaboration
+motion planning
+trajectory optimization
+formalism
+manipulation
+action interpretation
+Direct physical interaction
+Humanoid robot
+Impedance control 
+verbal and nonverbal communication
+personality
+PERSONAGE
+BEAT
+adaptive behavior
+robot gesture perception
+human perception of robots
+nonverbal interaction
+social robotics
+Human-robot dialogue
+robot speech
+linguistic cues of expertise
+rhetorical ability
+persuasion 
+Human-Robot Communication
+Collaborative Robotics
+Gesture
+Industrial Assembly
+human-robot dialogue
+ethnicity
+homophily 
+human-robot interaction
+inversion effect
+anthropomorphism
+methodology 
+HRI
+Concepts
+Theory of Mind 
+Mobile remote presence
+telepresence
+humanrobot interaction
+presentation of self
+mirrors
+self consciousness
+gaze
+group dynamics
+social robotics
+humanrobot interaction
+Telepresence robot
+telerobotics
+distant education
+remote communication
+children
+video conferencing
+foreign language teaching
+communication difficulties
+mobile robotic assistant
+human-robot collaboration
+manufacturing
+efficiency and productivity
+Human-Robot Communication
+Handover
+Head Gaze
+Turntaking
+Nonverbal Communication
+Rehabilitation robotics
+virtual reality
+multiplayer games
+motivation 
+children
+domestic robots
+field study
+human-robot interaction
+interaction design
+wizard-of-oz experiment
+Human-swarm interaction
+managing attractors of dynamic systems
+bio-inspired swarms
+quorum sensing
+adaptive
+expressive behaviour
+emotion
+gesture
+robot-child interaction
+Social robot
+remote robot
+diabetes
+diary
+embodiment
+adherence
+compliance
+bonding
+engagement
+relationship
+childrobot interaction
+human-robot interaction 
+Human-robot interaction
+anticipation
+intention prediction
+side-by-side walking 
+Human-robot interaction
+Pedagogical agents
+Help-seeking
+Evaluation apprehension
+Educational technology
+Social role 
+human-robot interaction
+social robots
+concept of territory
+Natural language
+politeness
+presence
+interaction modality
+human-likeness
+functional near infrared spectroscopy
+Education
+Robotics
+HRI
+Tutoring
+Personalization
+Assessment
+ITS
+Programming by Demonstration
+Spoken dialog systems
+Cross-cultural study
+robots in society
+Korea
+Turkey
+United States
+survey
+robot design
+robot application
+user preferences 
+Common Ground
+Collaboration
+Human-Robot Dialogue
+Field experiment
+CASA
+engagement
+human-robot interaction 
+Non-Linguistic Utterances
+Social HRI
+Situational Context
+Domestic Robots
+Requirements Elicitation
+Cross-cultural HRI studies
+Communication Style
+Natural Language Dialogue
+Politeness Theory
+Human-robot interaction
+children
+proxemics
+myoelectric prosthesis control
+automation
+human-robot interaction
+Human Robot Interaction
+Cheating
+Cheating Detector
+Agency
+Robot Tutor
+Social HRI
+Child-Robot Interaction
+Social Behaviour
+Robot Ethics
+Machine Morality
+Human-Robot Interaction
+Moral Psychology
+Embodied Design Improvisation
+Laboratory Experiment
+Wizard of Oz
+Metaphors
+Social Attribution 
+Activity recognition
+first-person videos
+human-robot interaction
+Intention estimation
+Initiation of interaction
+Behavior Design
+human-robot interaction
+organization
+kitchen
+design
+Child-robot interaction
+disengagement
+multimodal classification
+multiparty settings 
+Referring Expression Generation
+Embodiment
+Collaborative Referential Communication
+human-robot interaction
+children
+robot abuse 
+children education
+autonomous robot behavior
+dragonbot
+Human-Robot Interaction
+Robotic Swarms
+Human-robot interaction
+simulated interaction
+robot embodiment
+empathy
+Socially assistive robot
+human-robot interaction
+qualitative study
+social shaping of technology
+older adults 
+human-robot collaboration
+motion
+intent
+coordination
+Hierarchical Task Networks
+Learning From Demonstration
+Robot design
+signaling intent
+free-flyers
+micro air vehicles (MAVs)
+Assistive robots
+Parkinson’s disease
+quantitative field study
+Human-Robot Relationships
+Music
+Nonverbal Behaviour
+Long Term Studies
+Social Attention
+Spatial Attention
+Humanlikeness
+Robot Design
+Experimental Psychology
+Autism spectrum disorders (ASD)
+efficacy
+robot
+humanrobot interaction (HRI) metrics
+socially assistive robotics
+child-robot interaction
+emotional intelligence
+interactive storytelling
+type of interaction 
+Human-Robot Interaction
+Online Learning
+Cheap Talk
+Human-robot interaction
+inter-group interactions
+group effects
+robot type
+emotion
+attitudes
+stereotypes 
+Privacy
+Remote teleoperation
+haptic
+social robotics
+handshaking
+affective interaction
+human-robot interaction
+interaction patterns
+psychological intimacy
+trust
+robot having secret
+sociality
+Human-robot interaction
+honesty
+experimental study
+social presence
+monitoring 
+Skin deformation
+skin stretch
+virtual fixtures
+stiffness discrimination
+haptics
+Non-verbal Cues
+Social and contextual cues
+Participant roles
+HRI Paradigm
+Social Telepresence
+Human-Robot Interaction
+Cooperation
+Haptic Feedback
+Tactile Feedback
+Social Robotics 
+Human-robot collaborations
+natural language
+Trust
+Dynamic Bayesian Network
+Tele-operation
+Tele-presence
+Auditory scene manipulation
+Communication robot
+HRTF
+Localization
+Sound separation 
+Human-robot interaction
+Design
+Robotic companions
+Behavior change
+Empathy
+Ambient kinetic tangibles
+Smartphone robots 
+Human-robot interaction
+Gestures
+Humanoid Robots
+Social Human-Robot Interaction
+Cooperation
+Trust
+Robots
+accessibility
+blind
+participatory design 
+Socially assistive robots
+Affective robots
+ASD
+Autism
+Developmental ability
+Mullen
+ADOS
+long-term autonomous robot
+real-world deployment
+physical therapy
+companion
+dementia
+user requirements
+care 
+Human Knowledge Awareness
+HTN
+Joint Action
+shared plan
+HRI
+Learning from Demonstration
+observation space
+latent space
+Gaussian Process
+human-robot collaboration 
+Action observation
+gaze
+intent prediction
+anticipatory action
+human-robot collaboration
+Automated Driving
+collaborative control
+shared control
+haptics
+Bribery
+Reciprocity
+Decision Games
+Rock
+Paper Scissors Game 
+robot ethics
+machine morality
+humanrobot interaction
+moral psychology
+anthropomorphism 
+teleoperated robot
+autonomous robot
+Turing test
+physical embodiment
+telepresence
+social presence
+social response
+humanoid robot
+telepresence
+personality
+multi-modal communication
+Human-Robot Interaction
+Visual Focus of Attention
+With-me-ness
+Real-time Head Pose Estimation 
+human-robot interaction
+creativity
+cooperative interaction design
+interaction pattern
+natural language processing
+social robot
+Design
+Human-robot interaction
+Experimentation
+Trust
+Disclosure
+Companionship
+self-assembly
+expectation setting
+social robotics
+Kinesthetic Teaching
+Incremental Learning
+Dynamic Time Warping
+Virtual Tool Dynamics
+teleoperation
+kinesthetic guidance
+learning from demonstration
+interface design
+Human-robot interaction
+robot tutors
+second language learning
+social availability
+immediacy
+Child-robot Interaction
+Learning by teaching
+Protg Effect
+Children Self-confidence
+Extrinsic Motivation
+Robotic Handwriting Learning
+adaptive learning companion
+spoken dialogue
+acoustic-prosodic entrainment
+social presence
+rapport
+Drone
+UAV
+affective computing 
+social robotics
+design methodology
+embodiment
+human-robot interaction
+platform
+Visual Programming
+Social Robotics
+Interaction Design
+Design Patterns
+natural language processing
+human-robot interaction
+Theory of Mind
+Joint Action
+Shared Plan
+HRI 
+Human-robot interaction (HRI)
+communication
+perspective taking
+nonverbal behaviors
+mind perception
+humanoid robot 
+media effects
+technology acceptance model
+negative attitudes towards robots
+Frankenstein Syndrome
+human-robot interaction
+cultivation theory
+sex robots
+social robots
+humanoid robot
+uncanny valley
+emotion display
+death-thought accessibility (DTA)
+socially assistive robots
+robot companions
+ethics
+human-robot interaction
+social roles
+attachment
+bonding
+HRI design
+Critical HRI
+Humanoid
+Value-Sensitive Design (VSD)
+Roboticists
+Education
+user studies
+learning
+social assistive robotics
+robotic learning companions
+teachers
+field work 
+Challenges
+Human-Robot Interaction
+Methodology
+Recommendations
+Research Methods
+Human-Robot Interaction
+Child-Robot Interaction
+Observational study
+Gender Effects
+Gender Segregation
+Social Human-Robot Interaction
+Robot Motion
+Gaze
+Anthropomorphism
+Human Factors
+Human-Robot Interaction
+Measurement
+Perception
+Personality Perception
+Psychometric Scale
+Robots
+Robotics
+Social Perception
+Social Robots
+Social Robotics
+Child-robot Interaction
+Personalization
+Education
+Human-robot interaction
+Turn-taking
+Speech
+Multi-party interactions
+Age
+Gender
+Children
+Participation equality
+Association of utterance and visual scene
+walking partner robot
+early childhood education
+mindset
+perseverance
+grit
+child-robot interaction
+cognitive architecture
+social robots
+Communicative grounding
+Uncertainty
+Incrementality
+Programming by demonstration
+Programming tools
+Enduser programming
+Mobile Manipulation
+patient simulation
+facial expressions
+emotion
+social robots
+humanoid robots
+affective communication
+non-verbal communication
+human robot interaction
+medical technologies
+health informatics
+Reinforcement Learning
+Assistive Robotics
+Multimodal Behavior Generation
+Human-Robot Interaction
+“Big Two”dimensions
+Experimentation
+Gender stereotypes
+Measurement
+Social perception
+Uncanny reaction 
+motion timing
+expressive motion
+human cognitive models
+Language tutoring
+Education
+Assistive robotics
+Bayesian Knowledge Tracing
+Decision making
+Telepresence robots
+mobile remote presence
+referential gestures
+pointing
+interaction design
+low fidelity prototypes 
+Affective grounding
+emotion and emotion regulation
+human robot interaction 
+human-robot interaction
+multi-objective decision making
+user interface design
+robot path-planning
+Kinesthetic teaching
+User Study
+Intuitive Programming of Industrial Robots
+Machine Learning (primary keyword)
+Older Adults
+Interaction Design
+User Interface Design
+Field Study
+Usability Study
+Child-Robot Interaction
+Automatic Speech Recognition
+Verbal Interaction
+Interaction Design Recommendations
+Supervisory Control
+Trust in Automation
+Long-term Interactions
+Automation Transparency 
+Human-Robot Interaction
+Robots for Learning
+Haptic Interfaces
+Tangible Robots
+Spoken dialog systems
+text classification
+online learning
+conversational agents
+human-robot interaction
+concierge robots
+Autism
+Socially Assistive Robotics
+Proprioception
+direct gaze
+averted gaze
+reverse perspective
+hollow-face
+gaze cone
+one-to-many communication
+Discontinuance
+Domestic environment
+Domestic robots
+Longterm use
+Non-use
+Rejection
+Resistance
+Technology acceptance 
+Participatory design
+social robots
+socially assistive robotics
+older adults
+depression
+mental health
+methodology 
+Sonic interaction design
+Consequential sound
+Acoustics
+Color
+sound
+vibration
+emotional expression of a robot
+multi-modality interaction
+human-agent interaction (HAI) 
+End-User Robot Programming
+Programming by Demonstration
+Tangible Programming
+Gender stereotypes
+learning
+human-robot interaction
+educational robots
+robot evaluation 
+human-swarm interaction
+haptic feedback
+situation awareness
+Human-robot interaction
+multi-robot teleoperation
+attention
+Human-Robot Interaction
+Robots for Learning
+Haptic Interfaces
+Tangible Robots
+Human-robot interaction
+Intergroup interactions
+Group effects
+Entitativity 
+Robot Teleoperation
+User Interface Design
+Usability Study
+autonomous cars
+driving preferences
+driving style
+Human-robot interaction
+self-efficacy
+experimental study
+elderly users
+robot teaching
+technology acceptance
+do-it-yourself
+Ethics in HRI
+Autonomous Vehicle Interfaces
+Methodology
+On-Road simulation
+Marionette
+Steering Wheel
+HRI
+Persuasive Robotics
+Lexical Entrainment
+Human-robot interaction
+social stress
+researcher stress
+experiment design
+ethics
+Child-Robot Interaction
+Forensic Interviews
+Robot Intermediary
+Deception
+Affective evaluation
+Model of emotion
+Simultaneous Localization and Mapping (SLAM)
+Socially assistive robotics
+Human-Robot interaction
+media art
+mechanism design
+Interactive machine learning
+Human-Robot Interaction
+embodiment
+robot
+agent
+experimental study
+scale development
+Remote collaboration
+telepresence
+mobile robotic presence systems
+experiment
+Human-robot interaction
+Qualitative methods
+Design fiction
+Valuesensitive design
+peripersonal space
+physical human-robot interaction
+deep learning for robotics
+human keypoints estimation
+whole-body awareness
+margin of safety
+humanoid robots 
+Task-based human-robot dialogue
+Human perceptions of robot communications
+Speech act theory
+Intention understanding
+Human-robot interaction
+bullying
+empathy
+abuse
+robots
+peer intervention
+Bioluminescence
+expressive lights
+attractiveness
+hostility
+color psychology
+appearance-constrained robot
+human-robot interaction (HRI)
+Child-robot Interaction
+Education
+Tutoring
+Aerial robots
+drones
+teleoperation
+augmented reality
+mixed reality
+interface design
+aerial photography
+free-flying robot
+Human-robot teamwork
+emotion
+inter-group interactions
+group effects
+identification
+self-categorisation
+trust
+Aerial robots
+robots
+drones
+robot intent
+augmented reality
+mixed reality
+ARHMD
+interface design
+virtuality continuum
+Navigation
+Expressive motion
+Multi-Agent Systems
+Topology 
+Human-Robot Collaboration
+Anticipatory Decision-Making
+Intent Inference
+Human-Robot Interaction
+Human-Robot Handovers
+Handovers
+Social Perception
+Measurement
+Robots
+Robotics
+Psychometric Scale
+Social Robots
+Social Robotics
+Social robots
+influence
+social dialogue
+rapport
+errors
+Teleoperation
+human-robot interaction
+priming
+user experience
+shooter bias
+racism
+robot
+implicit
+explicit
+prejudice
+Robotics
+social robots
+emotion
+color
+sound
+motion
+human-robot interaction
+non-humanoids
+human-agent interaction
+multimodal interaction
+affective computing
+Gamified Rehabilitation
+Tangible Robots
+Rehabilitation Robotics
+Iterative Design
+Human-Robot Interaction
+Haptic Interfaces
+robot touch
+gender effects
+observation study
+Trust models
+Human-robot collaboration
+Partially observable Markov decision process (POMDP)
+Workload in conversation
+F-formation
+Multi-robot conversation
+robot bullying
+dehumanization
+anthropomorphism
+mind attribution
+verbal aggression
+physical human-robot interaction
+learning from demonstration
+human teachers
+robot database
+anthropomorphic robots
+human-likeness
+social robots
+privacy-sensitive design
+human-robot interaction
+User Experience design
+privacy considerations
+transparency
+User Experience Design
+Human Robot Interaction
+Social Robots
+Human-Robot Interaction
+Contingency Detection
+Human-Robot Interaction
+Group
+Socioemotional Support
+Gaze
+Interaction Analysis
+Communication
+Socially Assistive Robotics
+Engagement
+Motivation
+Therapy
+User Study
+Social robotics
+learning-by-teaching
+multi-session studies
+Human-Robot Interaction
+Trust
+The Ripple Effect
+Social Collaboration
+Groups and Teams
+expressive robot motion
+trajectory optimization
+incapability
+Language tutoring
+Robotics
+Education
+Human-Robot Interaction
+Bayesian Knowledge Tracing
+Non-verbal communication
+DNN-HMM
+time-varying acoustic channel
+speech recognition 
+Human–robot teamwork
+robot adoption
+intention to work with robots
+trust
+similarity
+deep-level
+surface-level
+Conformity
+Human-Robot Groups
+Trust
+Human-Robot Interaction
+Mechanical Robot Head Design
+User Centered Design
+3D Printing
+Animation
+Projection
+reward learning
+comparison-based learning
+learning from human guidance
+driving style
+human-robot interaction
+sound
+auditory localization
+collaboration
+coordination
+nonverbal communication
+Social robots
+Robot face design
+human-robot interaction
+eye gaze
+eye tracking
+shared autonomy
+nonverbal communication
+robot design
+design process
+robot assistant
+holistic design
+tabletop robot
+holistic design
+Abstract Reasoning
+Learning from Demonstration
+Deep Learning
+Soft robotics
+human-robot interaction
+emotion expression
+empirical study
+texture-change
+nonverbal behavior
+Social HRI
+Infrasound
+Sonic Interaction
+teleoperation
+human-robot interaction
+social interfaces
+emotion expression
+human-robot interaction
+situation-specificity
+conversation analysis
+Trust
+Human Robot Collaboration
+Capability
+Intention
+child-robot interaction
+trust
+robot errors 
+Human-Robot Interaction
+Trust
+Trust Repair
+Human-Robot Interaction
+Robotics
+Privacy
+Data Security
+Social Robotics
+Service Robots
+work attributes
+manufacturing
+human robot collaboration
+collaborative robotics
+future of work
+Industry 5.0
+Shared autonomy
+human-robot teaming
+active learning
+inverse reinforcement learning
+assistive teleoperation
+Human-Robot Competition
+ReferenceDependent Preferences
+Loss Aversion
+Perceived Competence
+Robots in society
+social robotics
+groups of robots
+group effects
+discontinuity effect
+competition
+greed
+fear
+outperformance 
+robots
+human-robot interaction
+user study
+multi-robot
+multi-robot-human interaction
+transition
+transfer
+Human-Robot Interaction
+Stereotypes
+Autonomous Robots
+Emotions
+Robot
+Peripheral Robot
+Team Performance
+Conversational Dynamics
+Interaction Design
+Groups
+Social Dilemma
+Public Goods Game
+Prosocial
+Selfish
+Human-Drone Interaction
+Robotics
+UAV
+Mobile Projector
+Mid-Air Gestures
+Radial Menus 
+sUAS
+Communication
+Elicitation Study
+User Design
+human-drone interaction
+human-robot interaction
+social robotics
+proxemics
+methodology survey 
+Automated Vehicles
+Virtual Reality
+Augmented Reality
+Transfer of Training
+TOR
+Wizard of Oz
+Human-Vehicle Interaction
+Mixed Reality
+Augmented Reality
+Deixis
+Natural Language Generation
+Human-Robot Interaction
+Robots
+teleoperation
+augmented reality
+mixed reality
+ARHMD
+interface design
+aerial robots
+drones
+Robot design
+Voice
+Speech
+Mental model
+Social robots
+Cognitions
+Emotions
+Behaviors
+emotional intelligence
+gender
+social robots
+human robot interaction
+human-robot-interaction
+behavior explanation
+mental state inference
+folk psychology
+theory of mind
+Explainable AI
+Policy Explanation
+Human-Robot Collaboration
+Reward Estimation
+Joint Task Execution
+Index Terms—Explainable AI
+planning and decision-making
+human-robot interaction
+explanations as model reconciliation 
+assistive feeding
+deformable object manipulation
+bite acquisition
+bite transfer
+Socially Assistive Robots
+Persuasion
+User-Study
+POMDP
+NAO
+robot-assisted
+autism
+diagnostics
+Human-Robot Interaction
+User Studies
+Multiparty Interaction
+Collaborative Responses
+Turn Taking
+ark patterns
+user experience design
+interaction design
+home robots
+privacy
+surveillance capitalism
+data ethics
+emotion
+affect
+social robots
+persuasive robots
+culture
+in the wild
+human-robot trust
+human-robot teaming
+human cognitive load
+robot autonomy
+public datasets
+testbed
+Natural Language Generation
+Robot Ethics
+Human-Robot Interaction
+novelty effects
+experiential novelty
+social humanrobot interaction
+social robots
+engagement
+sense-making
+expectations
+learning
+familiarization
+Language grounding
+Bayesian learning model
+Computational human-robot interaction
+Cross-situational learning
+theory of mind
+inverse RL
+model-based RL
+model-free RL
+sample complexity
+Learning from Demonstration
+Imitation Learning
+Robot Manipulation
+Virtual Reality
+User Study
+Active Learning
+Human-Robot Interaction
+Interactive Machine Learning
+Human demonstrations
+Robot programming
+Design space
+Input methods
+User experience
+preference learning
+assistive agents
+Navigation
+Motion Planning
+Social Robotics 
+Virtual Reality
+Human-Robot Interaction
+Proxemics
+Human-Robot Handover
+Robots
+approaching behavior
+admonishment
+in-the-wild human-robot interaction
+robot learning
+learning from demonstration
+Social Robots
+Inter-generational Interactions
+Community-oriented HRI
+Community Robots
+Nonfamilial Interactions
+theory of mind
+attention recognition and expression
+nonverbal behaviors
+speaker cues
+listener backchannels
+children and storytelling
+machine learning
+POMDP
+DBN
+Robots for learning
+Second language tutoring
+Child-Robot Interaction
+Long-term interaction
+Gesture
+Agency
+anthropomorphism
+child-robot interaction
+cognitive development
+humanoids
+uncanny valley
+HRI theory
+Signaling theory
+Ethnography
+Robotic telepresence
+HRI theory
+Signaling theory
+Ethnography
+Robotic telepresence
+Imitation
+Social Learning
+Human-Robot Interaction
+Strategy
+Investment Game
+Social Robot
+Trait loneliness
+Anthropomorphism
+Humanness
+Robot gender
+Gender stereotypes
+Human-Robot Interaction
+Gendering
+Human-Robot Trust
+Occupational Competency
+Pepper robot
+planning under uncertainty
+human-in-the-loop learning
+humanrobot communication
+social robots
+robot comedy
+human-robot interaction
+Human-robot interaction
+prosocial behavior
+robot abuse
+social signal processing
+social robots
+smart-speakers
+failures
+Human-robot interaction
+joint Simon effect
+reproducibility
+Active Learning
+End-User Programming
+Human-Robot Interaction
+telepresence robots
+personalization
+relationship closeness
+remote presence
+Robot Perception
+First Impressions
+Embodiment
+Uncanny Valley
+child-robot interaction
+robot role design
+musical instrument practicing
+social facilitation theory
+evaluation apprehension theory
+Human-robot interaction
+service robots
+zoomorphic robots
+uncanny valley
+social robots
+anthropomorphism
+artificial agents
+Human robot interaction
+robotics
+artificial intelligence
+public engagement
+public perceptions of robots
+robotics and society
+Hidden-Driver Vehicles
+Autonomous Vehicles
+Self-Driving Vehicles
+Pedestrians
+Cars
+Wizard-of-Oz
+Human-Robot Interaction 
+Inverse Reinforcement Learning
+Heterogeneous Demonstration
+Preference Learning
+Toddler robot interaction
+English as Second Language
+parent child robot
+Trust Violation
+Trust Repair
+social media
+robots
+death
+social robots
+anthropomorphism
+human-robot interaction
+human-agent interaction
+service
+groups
+re-embodiment
+personalization
+interaction design
+Pedestrian interaction
+Autonomous vehicles
+Driverless cars
+Ghostdriver
+Wizard-of-Oz
+Bullying
+Griefing
+Socially Assistive Robot
+stroke
+rehabilitation
+long-term interaction
+focus groups
+engagement
+personalization 
+Robotic products
+consumer value and acceptance
+category labels
+human-robot interaction
+social robotics
+robot agency
+mind perception
+user study
+ethics
+social behaviour
+framing
+moral concern
+Conversation Analysis
+Human-Robot Interaction
+Linguistics
+Speech Intonation
+Turn Taking
+Human-Robot Interaction
+Behavior Explanations
+Perception Study
+Child-robot interaction
+long-term
+in the wild
+unsupervised interaction
+user study
+interaction design
+social robot
+inquiry learning
+sensorised learning materials
+computer assisted learning system
+Risk
+Nuclear
+Decision making
+Trust
+Performance
+HRI
+Prospect theory
+Reinforcement Learning
+Fairness
+Multi-Armed Bandits
+Trust
+Social robots
+deep learning
+neural networks
+affective generation
+Human-Robot Interaction
+Inclusion
+Groups and Teams
+Human-Robot Interaction
+Photography
+Design
+Humor
+Joint attention
+mutual gaze
+social robots
+social presence
+human decision modeling
+robot inference and prediction
+Social robot
+Omni-directional mobile base
+Social navigation
+Human-Robot Interaction
+Child learning
+Language learning
+Social Robot
+NAO
+Gender differences
+emotion
+affect
+social robots
+robots in the home
+conversation analysis
+non-lexical sounds
+long-term interaction
+nonverbal communication
+social robotics
+robot tutoring
+second language learning
+human-robot interaction
+complex emotions
+teaching
+learning
+socio-cognitive paradigm
+disappointment
+robotic tutors
+human-robot interaction
+Assistive Feeding
+Assistive Robotics
+Space perception
+central tendency effect
+shared perception
+interaction
+alignment
+bayesian models
+iCub
+humanoid
+curiosity
+off-task actions
+perceptions of robots
+Human-Robot Interaction
+First-Person Demonstration
+Programming by Demonstration
+Collaborative Robotics
+affective computing
+pedagogical agent
+social robotics
+humanrobot interaction
+Gestures
+EMG
+IMU
+Plug-and-Play
+Machine Learning
+Robotics
+reinforcement learning
+human-robot interaction
+learning from human feedback
+linear temporal logic
+Power wheelchair simulator
+multisensory feedback
+vestibular feedback
+sense of presence
+cybersickness
+user study
+Child-Robot Interaction
+Interactive Storytelling
+Engagement
+Agency
+human-robot interaction
+social navigation
+multi-agent planning
+motivation
+self-determination theory
+task engagement
+second language learning
+human-robot interaction
+robot tutor
+Collaborative robots
+human-robot collaboration
+robot motion
+social cues
+animation principles
+character design
+Service Robotics
+Customer handling
+User study
+Robot Noncompliance
+Gender
+Politeness Theory
+cognitive HRI
+cumulative prospect theory
+human prediction
+Robot abuse
+process of abuse
+qualitative research
+TEM
+human-robot interaction
+emotion
+affect measurement
+geneva emotion wheel
+Stevie robot
+human-robot interaction
+robot skin
+texture analysis
+haptics
+virtual reality
+mixed-methods
+Human robot interaction
+Robotics
+Control synthesis
+Healthcare robotics
+Neurorehabilitation
+Dementia
+performance
+human-augmentation
+expressive robotics
+feminism
+Teleoperation
+motion retargeting
+latency analysis
+Trust
+Inappropriate Reliance
+Compliance
+HRI
+Accountability
+Coalition-building
+Social Robots
+Dementia
+Cognitive Stimulation Therapy
+Dementiarelated Behavioral Symptoms
+Communicative motion
+visuo-proprioceptive cues
+pseudohaptics
+Human robot interaction
+telepresence
+robotmediated communication
+embodied videoconferencing
+autonomous mobile robot
+human-robot interaction
+field trial
+social acceptance
+dialogue
+conversation
+nonverbal communication
+healthcare robotics
+assistive robotics
+direct physical interface
+nursing
+user study 
+Human-robot collaboration
+cross-cultural design
+communicative behavior learning
+knowledge acquisition
+developmental robotics
+human-robot interaction
+active learning
+socially guided machine learning
+social robots
+interactive learning
+human-robot interaction
+human-robot interaction
+joint attention
+social robots
+communicating about regions
+spatial deixis
+pointing gesture
+and cognition of regions
+head motion
+dialogue acts
+nodding generation
+humanoid robot
+F-formation
+body torque
+human-robot interaction
+communication robot
+natural human-robot interaction
+natural language processing
+dialogue interactions
+integrated architecture
+human-robot communication
+spatial language
+natural language
+experimentation
+spatial language
+direction understanding
+route instructions
+Human-robot interaction
+instruction following
+navigation
+statistical machine translation
+natural language
+autonomous
+interaction
+tablet
+forklift
+robotic
+supervisory control
+situation awareness
+eye tracking
+human-robot system
+unmanned aerial vehicles
+wilderness search and rescue
+coverage quality maps
+video indexing
+Affective & emotional responses
+Beliefs about robots
+Mental models of robot behavior
+human-robot interaction
+blame attribution
+politeness
+face-threatening acts
+robot error
+robot breakdown
+error recovery
+services
+service recovery
+social robot
+human-robot interaction
+affective robotics
+cooperation
+gestures
+human-robot interaction
+Expressive robotic behavior
+nonverbal communication
+affective communication
+human-robot interaction
+user expectations
+human-robot interaction
+eye gaze
+joint attention
+robotic face
+Eliciting spontaneous participation
+tour-guide robot
+social human-robot interaction
